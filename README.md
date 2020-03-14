@@ -1,2 +1,4 @@
-# MOLS8411 Molecular Genomics Analysis and Design - R Workshops
+# MOLS8411 Molecular Genomics Analysis and Design 
+
+## R Workshops
 
