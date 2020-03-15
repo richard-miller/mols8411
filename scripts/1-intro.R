@@ -14,6 +14,30 @@
 3 + 5
 12 / 7
 
+# other operators
+#
+# - * / ** ^ ( )
+
+# 
+# Excercises
+#
+# Calculate 10 plus 2 all divided by 3 and then squared
+#
+# Solution:
+
+
+# What does: 11 + 1 / 6  evaluate to ?
+
+# Solution:
+
+
+# Try the equations in the file "images/equations.png"
+
+# Solution:
+
+
+
+
 # Storing values
 a <- 3              # assign the number 3 to OBJECT (variable) called "a"
 b <- 5              # assign 5 to b
@@ -40,16 +64,6 @@ a + b               # we can add them together
 # Solution:
 
 
-# other operators
-#
-# - * / ** ^ ( )
-
-# 
-# Excercise:
-#
-# Calculate 10 plus 2 all divided by 3 and then squared
-#
-# Solution:
 
 
 
